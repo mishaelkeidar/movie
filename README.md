@@ -1,4 +1,9 @@
 # Movie
+
+<p>If you found this project useful or interesting, please consider giving it a star! ⭐️</p>
+
+### Overview
+
 <p>An application designed to keep you well informed about the latest innovations in the world of cinema. The platform provides users with up-to-date information about movies. Whether you're a die-hard movie buff or a casual moviegoer.</p>
 
 ### Screenshot
